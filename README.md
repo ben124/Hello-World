@@ -1,2 +1,3 @@
 # Hello-World
 CS50 Journey
+Hey! i'm a NOOB. First time in GitHub too... 
